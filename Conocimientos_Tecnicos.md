@@ -50,6 +50,7 @@
 - **Aspectos**: Autenticación y autorización, protección contra ataques.
 - **Práctica**: Menciona cómo implementar la seguridad en una API RESTful.
 
+### 10. Mapper
 ---
 
 ## Preguntas Comunes de Entrevista
